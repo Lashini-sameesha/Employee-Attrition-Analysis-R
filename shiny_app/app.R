@@ -2,7 +2,7 @@ library(shiny)
 
 library(ggplot2)
 
-employees <- read.csv("data/WA_Fn-UseC_-HR-Employee-Attrition.csv")
+employees <- read.csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
 
 ui <- fluidPage(
   titlePanel("Employee Attrition Dashboard"),
