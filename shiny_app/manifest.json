@@ -1410,6 +1410,9 @@
   "files": {
     "app.R": {
       "checksum": "60c651e477359cc465cd7003124cf645"
+    },
+    "WA_Fn-UseC_-HR-Employee-Attrition.csv": {
+      "checksum": "ad8207459e5732574372cf8ff619883f"
     }
   },
   "users": null
