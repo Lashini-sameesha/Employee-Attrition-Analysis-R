@@ -4,7 +4,7 @@ A data analysis project exploring employee attrition patterns using the **IBM HR
 
 ## Live Dashboard
 
-🔗 **[View the interactive Shiny dashboard](https://connect.posit.cloud/lashini-sameesha/content/01a01490-1260-e834-16c6-dfe845eee0de)**
+🔗 **[View the interactive Shiny dashboard]([https://connect.posit.cloud/lashini-sameesha/content/01a01490-1260-e834-16c6-dfe845eee0de](https://01a01490-1260-e834-16c6-dfe845eee0de.share.connect.posit.cloud/))**
 
 ## Project Goal
 
