@@ -4,7 +4,7 @@ A data analysis project exploring employee attrition patterns using the **IBM HR
 
 ## Live Dashboard
 
-🔗 **[View the interactive Shiny dashboard]([https://connect.posit.cloud/lashini-sameesha/content/01a01490-1260-e834-16c6-dfe845eee0de](https://01a01490-1260-e834-16c6-dfe845eee0de.share.connect.posit.cloud/))**
+🔗 **[View the interactive Shiny dashboard](https://01a01490-1260-e834-16c6-dfe845eee0de.share.connect.posit.cloud/)**
 
 ## Project Goal
 
@@ -18,6 +18,10 @@ Identify which factors are most strongly associated with employees leaving the c
 
 ## Project Structure
 
+- `scripts/` — R scripts for data cleaning and EDA
+- `shiny_app/` — Interactive Shiny dashboard (app.R)
+- `plots/` — Saved visualizations
+- `README.md`
 
 ## Methodology
 
@@ -63,4 +67,4 @@ Identify which factors are most strongly associated with employees leaving the c
 
 ## Author
 
-Built as a personal learning project to practice data cleaning, EDA, and visualization in R.
+Built as a personal learning project to practice data cleaning, exploratory data analysis, and visualization in R.
